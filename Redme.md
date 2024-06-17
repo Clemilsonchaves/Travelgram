@@ -1,1 +1,1 @@
-<img src="assets/Thumbnail (1).pngs" alt="Thumbnail da Página">
+<img src="assets/Thumbnail (1).png" alt="Thumbnail da Página">
